@@ -546,3 +546,4 @@ C:\Users\61687\OneDrive\Dokumenter\Git\Disaheim\DisaheimTest\obj\Debug\net10.0\r
 C:\Users\61687\OneDrive\Dokumenter\Git\Disaheim\DisaheimTest\obj\Debug\net10.0\DisaheimTest.pdb
 C:\Users\61687\OneDrive\Dokumenter\Git\Disaheim\DisaheimTest\obj\Debug\net10.0\DisaheimTest.genruntimeconfig.cache
 C:\Users\61687\OneDrive\Dokumenter\Git\Disaheim\DisaheimTest\obj\Debug\net10.0\ref\DisaheimTest.dll
+C:\Users\61687\OneDrive\Dokumenter\Git\Disaheim\DisaheimTest\obj\Debug\net10.0\DisaheimTest.sourcelink.json

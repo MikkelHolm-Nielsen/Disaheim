@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SWMEMh6QDH0=",
+  "dgSpecHash": "6323i+EEfYA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\61687\\OneDrive\\Dokumenter\\Git\\Disaheim backup\\DisaheimTest\\DisaheimTest.csproj",
+  "projectFilePath": "C:\\Users\\61687\\OneDrive\\Dokumenter\\Git\\Disaheim\\DisaheimTest\\DisaheimTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\61687\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
     "C:\\Users\\61687\\.nuget\\packages\\microsoft.codecoverage\\18.0.1\\microsoft.codecoverage.18.0.1.nupkg.sha512",

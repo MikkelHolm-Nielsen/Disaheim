@@ -1,0 +1,28 @@
+C:\Users\61687\OneDrive\Dokumenter\Visual Studio Projekter\Disaheim\Disaheim\obj\Debug\net10.0\Disaheim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\61687\OneDrive\Dokumenter\Visual Studio Projekter\Disaheim\Disaheim\obj\Debug\net10.0\Disaheim.AssemblyInfoInputs.cache
+C:\Users\61687\OneDrive\Dokumenter\Visual Studio Projekter\Disaheim\Disaheim\obj\Debug\net10.0\Disaheim.AssemblyInfo.cs
+C:\Users\61687\OneDrive\Dokumenter\Visual Studio Projekter\Disaheim\Disaheim\obj\Debug\net10.0\Disaheim.csproj.CoreCompileInputs.cache
+C:\Users\61687\OneDrive\Dokumenter\Visual Studio Projekter\Disaheim\Disaheim\bin\Debug\net10.0\Disaheim.exe
+C:\Users\61687\OneDrive\Dokumenter\Visual Studio Projekter\Disaheim\Disaheim\bin\Debug\net10.0\Disaheim.deps.json
+C:\Users\61687\OneDrive\Dokumenter\Visual Studio Projekter\Disaheim\Disaheim\bin\Debug\net10.0\Disaheim.runtimeconfig.json
+C:\Users\61687\OneDrive\Dokumenter\Visual Studio Projekter\Disaheim\Disaheim\bin\Debug\net10.0\Disaheim.dll
+C:\Users\61687\OneDrive\Dokumenter\Visual Studio Projekter\Disaheim\Disaheim\bin\Debug\net10.0\Disaheim.pdb
+C:\Users\61687\OneDrive\Dokumenter\Visual Studio Projekter\Disaheim\Disaheim\obj\Debug\net10.0\Disaheim.dll
+C:\Users\61687\OneDrive\Dokumenter\Visual Studio Projekter\Disaheim\Disaheim\obj\Debug\net10.0\refint\Disaheim.dll
+C:\Users\61687\OneDrive\Dokumenter\Visual Studio Projekter\Disaheim\Disaheim\obj\Debug\net10.0\Disaheim.pdb
+C:\Users\61687\OneDrive\Dokumenter\Visual Studio Projekter\Disaheim\Disaheim\obj\Debug\net10.0\Disaheim.genruntimeconfig.cache
+C:\Users\61687\OneDrive\Dokumenter\Visual Studio Projekter\Disaheim\Disaheim\obj\Debug\net10.0\ref\Disaheim.dll
+C:\Users\61687\OneDrive\Dokumenter\Git\Disaheim\Disaheim\bin\Debug\net10.0\Disaheim.exe
+C:\Users\61687\OneDrive\Dokumenter\Git\Disaheim\Disaheim\bin\Debug\net10.0\Disaheim.deps.json
+C:\Users\61687\OneDrive\Dokumenter\Git\Disaheim\Disaheim\bin\Debug\net10.0\Disaheim.runtimeconfig.json
+C:\Users\61687\OneDrive\Dokumenter\Git\Disaheim\Disaheim\bin\Debug\net10.0\Disaheim.dll
+C:\Users\61687\OneDrive\Dokumenter\Git\Disaheim\Disaheim\bin\Debug\net10.0\Disaheim.pdb
+C:\Users\61687\OneDrive\Dokumenter\Git\Disaheim\Disaheim\obj\Debug\net10.0\Disaheim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\61687\OneDrive\Dokumenter\Git\Disaheim\Disaheim\obj\Debug\net10.0\Disaheim.AssemblyInfoInputs.cache
+C:\Users\61687\OneDrive\Dokumenter\Git\Disaheim\Disaheim\obj\Debug\net10.0\Disaheim.AssemblyInfo.cs
+C:\Users\61687\OneDrive\Dokumenter\Git\Disaheim\Disaheim\obj\Debug\net10.0\Disaheim.csproj.CoreCompileInputs.cache
+C:\Users\61687\OneDrive\Dokumenter\Git\Disaheim\Disaheim\obj\Debug\net10.0\Disaheim.dll
+C:\Users\61687\OneDrive\Dokumenter\Git\Disaheim\Disaheim\obj\Debug\net10.0\refint\Disaheim.dll
+C:\Users\61687\OneDrive\Dokumenter\Git\Disaheim\Disaheim\obj\Debug\net10.0\Disaheim.pdb
+C:\Users\61687\OneDrive\Dokumenter\Git\Disaheim\Disaheim\obj\Debug\net10.0\Disaheim.genruntimeconfig.cache
+C:\Users\61687\OneDrive\Dokumenter\Git\Disaheim\Disaheim\obj\Debug\net10.0\ref\Disaheim.dll

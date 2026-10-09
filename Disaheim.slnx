@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Disaheim/Disaheim.csproj" />
   <Project Path="DisaheimTest/DisaheimTest.csproj" />
+  <Project Path="UtilityLib/UtilityLib.csproj" Id="d3c96116-b14b-4d06-9d6c-b3073cae5177" />
 </Solution>

@@ -1084,6 +1084,19 @@
         "runtime": {
           "bin/placeholder/Disaheim.dll": {}
         }
+      },
+      "UtilityLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Disaheim": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UtilityLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UtilityLib.dll": {}
+        }
       }
     }
   },
@@ -2282,12 +2295,18 @@
       "type": "project",
       "path": "../Disaheim/Disaheim.csproj",
       "msbuildProject": "../Disaheim/Disaheim.csproj"
+    },
+    "UtilityLib/1.0.0": {
+      "type": "project",
+      "path": "../UtilityLib/UtilityLib.csproj",
+      "msbuildProject": "../UtilityLib/UtilityLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
       "Disaheim >= 1.0.0",
-      "MSTest >= 4.0.2"
+      "MSTest >= 4.0.2",
+      "UtilityLib >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2325,6 +2344,9 @@
           "projectReferences": {
             "C:\\Users\\61687\\OneDrive\\Dokumenter\\Git\\Disaheim\\Disaheim\\Disaheim.csproj": {
               "projectPath": "C:\\Users\\61687\\OneDrive\\Dokumenter\\Git\\Disaheim\\Disaheim\\Disaheim.csproj"
+            },
+            "C:\\Users\\61687\\OneDrive\\Dokumenter\\Git\\Disaheim\\UtilityLib\\UtilityLib.csproj": {
+              "projectPath": "C:\\Users\\61687\\OneDrive\\Dokumenter\\Git\\Disaheim\\UtilityLib\\UtilityLib.csproj"
             }
           }
         }

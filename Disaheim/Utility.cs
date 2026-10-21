@@ -29,7 +29,7 @@ namespace Disaheim
             return 0.0;
         }
 
-                                                                        
+
         /*public double GetValueOfBook(Book book)
         {
             return book.Price;
@@ -62,4 +62,4 @@ namespace Disaheim
         }
 
     }
-} 
+}

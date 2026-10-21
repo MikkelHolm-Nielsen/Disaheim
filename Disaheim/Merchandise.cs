@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Disaheim
 {
-    public abstract class Merchandise 
+    public abstract class Merchandise
     {
-        public string ItemId { get; set; } 
+        public string ItemId { get; set; }
 
         /*
         public Merchandise (string itemId)

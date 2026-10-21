@@ -6,6 +6,11 @@ namespace Disaheim
 {
     public class Utility
     {
+        public double LowQualityValue { get; set; } = 12.5;
+        public double MediumQualityValue { get; set; } = 20.0;
+        public double HighQualityValue { get; set; } = 27.5;
+        public double CourseHourValue { get; set; } = 875.0;
+
         public double GetValueOfMerchandise(Merchandise merchandise)
         {
             if (merchandise is Book book)
@@ -17,11 +22,11 @@ namespace Disaheim
                 switch (amulet.Quality)
                 {
                     case Level.Low:
-                        return 12.5;
+                        return LowQualityValue;
                     case Level.Medium:
-                        return 20.0;
+                        return MediumQualityValue;
                     case Level.High:
-                        return 27.5;
+                        return HighQualityValue;
                     default:
                         return 0.0;
                 }
@@ -52,13 +57,11 @@ namespace Disaheim
 
         public double GetValueOfCourse(Course course)
         {
-            double HourlyRate = 875;
-
             int hours = course.DurationInMinutes / 60;
             int remainingMinutes = course.DurationInMinutes % 60;
 
             if (remainingMinutes > 0) hours += 1;
-            return hours * HourlyRate;
+            return hours * CourseHourValue;
         }
 
     }
